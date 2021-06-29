@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name holy32-rescue)(type Legacy)(uri ${KIPRJMOD}/holy32-rescue.lib)(options "")(descr ""))
+)
