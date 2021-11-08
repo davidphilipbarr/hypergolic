@@ -1,6 +1,6 @@
 # hypergolic
 
-Ergo 34 keyboard that uses no diodes. 
+Ergo 34 keyboard(s) that uses no diodes. 
 
 ## HERE BE DRAGONS
 
